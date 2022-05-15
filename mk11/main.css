@@ -1,0 +1,50 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+@font-face {
+
+	font-family: 'Karla', sans-serif;
+}
+.mk11{
+	width: 100%;
+	min-height: 100%;
+	background: black;
+
+	color: white;
+}
+html,body{
+	height: 100%;
+	font-family: 'Karla', sans-serif;
+}
+.conmk{
+	width: 80%;
+	height: 100%;
+	margin: auto;
+	border: 1px solid white;
+	padding: 10px;
+
+}
+.gmk11{
+	float: left;
+	padding-right:5px;
+	padding-bottom: ;
+}
+.gallery{
+	width: 100%;
+	min-height: 600px;
+	column-count: 5;
+}
+
+.element{
+	width: 100%;
+	height: calc(100vw / 9 * 1.5);
+	margin-top: 10px;
+	
+}
+
+p {
+	padding-left:10px;}
+.toper{
+	width: 100%
+}
